@@ -21,6 +21,10 @@ class MyWebsiteController extends AppController
     public function about(){
         // echo 'about ';
     }
+
+    public function check(){
+        
+    }
 }
 
 ?>
