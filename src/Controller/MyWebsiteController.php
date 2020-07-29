@@ -22,9 +22,9 @@ class MyWebsiteController extends AppController
         // echo 'about ';
     }
 
-    public function check(){
-        
-    }
+    // public function check(){
+
+    // }
 }
 
 ?>
